@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 /**
  * OpenSourceBackendApplication main class
- * @Summary Entry point for the BrewDog Supply Chain and Inventory REST API.
- * @Author Andre Sebastian Quispe Almonacid
+ * @summary Entry point for the BrewDog Supply Chain and Inventory REST API.
+ * @author Andre Sebastian Quispe Almonacid
  */
 
 @EnableJpaAuditing
